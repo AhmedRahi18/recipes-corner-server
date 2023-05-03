@@ -1,0 +1,195 @@
+[
+  {
+    "id": "1",
+    "chefName": "Sanjeev Kapoor",
+    "chefPicture": "https://static.toiimg.com/thumb/48202473.cms?resizemode=4&width=800",
+    "shortBio": "Sanjeev Kapoor is an Indian celebrity chef, entrepreneur, and television personality. He is best known as the host of the popular TV show Khana Khazana.",
+    "likes": "5000",
+    "numRecipes": "1000",
+    "yearsExperience": "30",
+    "recipes": [
+      {
+        "recipeName": "Butter Chicken",
+        "ingredients": "1 kg boneless chicken, cut into small pieces, 1 cup plain yogurt, 2 tbsp ginger-garlic paste, 1 tsp turmeric powder, 1 tsp garam masala",
+        "cookingMethod": "Marinate chicken in yogurt, ginger-garlic paste, turmeric, and garam masala for at least an hour. Heat butter in a pan and cook the chicken until browned. Add tomato puree and cook for another 5-10 minutes. Stir in cream and serve hot.",
+        "rating": "4.8",
+        "foodImage": "https://images.immediate.co.uk/production/volatile/sites/30/2021/02/butter-chicken-ac2ff98.jpg?quality=90&webp=true&resize=440,400"
+      },
+      {
+        "recipeName": "Palak Paneer",
+        "ingredients": "500 g paneer, cut into cubes, 1 kg spinach, 2 onions, finely chopped, 2 tomatoes, finely chopped, 2 tbsp ghee",
+        "cookingMethod": "Blanch spinach leaves in boiling water for 2 minutes, then grind to a fine paste. Heat ghee in a pan and fry onions until browned. Add tomatoes and cook until they turn soft. Add spinach paste and cook for 5 minutes. Add paneer and cook for another 2-3 minutes. Serve hot.",
+        "rating": "4.5",
+        "foodImage": "https://healthynibblesandbits.com/wp-content/uploads/2020/01/Saag-Paneer-FF.jpg"
+      },
+      {
+        "recipeName": "Chole Bhature",
+        "ingredients": "2 cups chickpeas, soaked overnight, 1 onion, chopped, 2 tomatoes, chopped, 2 tsp cumin seeds, 1 tsp coriander powder",
+        "cookingMethod": "Pressure cook chickpeas with cumin seeds and coriander powder until tender. Heat oil in a pan and fry onions until browned. Add tomatoes and cook until they turn soft. Add chickpeas and cook for another 5-10 minutes. Serve with bhature.",
+        "rating": "4.2",
+        "foodImage": "https://en-media.thebetterindia.com/uploads/2022/08/294156779_1082267416022212_8006411537588067133_n-1_11zon-1660981126.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "chefName": "Vikas Khanna",
+    "chefPicture": "https://i0.wp.com/bharatflux.com/wp-content/uploads/2023/03/Chef-vikas-khanna-.jpg?fit=1080%2C1350&ssl=1",
+    "shortBio": "Vikas Khanna is an Indian-American chef, restaurateur, cookbook writer, and humanitarian. He has been featured on numerous TV shows and is the recipient of many awards for his culinary achievements.",
+    "likes": "3500",
+    "numRecipes": "500",
+    "yearsExperience": "20",
+    "recipes": [
+      {
+        "recipeName": "Tandoori Chicken",
+        "ingredients": "1 kg chicken legs, 2 tbsp tandoori masala, 1 tbsp ginger-garlic paste, 1/2 cup plain yogurt, 1 tbsp lemon juice",
+        "cookingMethod": "Mix all ingredients together and marinate chicken for at least 2 hours. Preheat oven to 200°C and cook chicken for 25-30 minutes, until fully cooked. Serve hot.",
+        "rating": "4.7",
+        "foodImage": "https://www.cubesnjuliennes.com/wp-content/uploads/2022/12/Tandoori-Chicken-Recipe.jpg"
+      },
+      {
+        "recipeName": "Aloo Gobi",
+        "ingredients": "500 g potatoes, peeled and chopped, 500 g cauliflower, chopped, 2 onions, chopped, 2 tomatoes, chopped, 1 tsp cumin seeds",
+        "cookingMethod": "Heat oil in a pan and fry cumin seeds until they start to splutter. Add onions and fry until browned. Add tomatoes and cook until they turn soft. Add potatoes and cauliflower and cook for 10-15 minutes, until tender. Serve hot.",
+        "rating": "4.4",
+        "foodImage": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/03/aloo-gobi.jpg"
+      },
+      {
+        "recipeName": "Samosa",
+        "ingredients": "2 cups all-purpose flour, 1/2 cup vegetable oil, 2 potatoes, boiled and mashed, 1 cup green peas, 1 tsp cumin seeds",
+        "cookingMethod": "Mix flour, oil, and salt to make a dough. Heat oil in a pan and fry cumin seeds until they start to splutter. Add mashed potatoes and green peas and fry for 5 minutes. Divide dough into small balls and roll each ball into a thin circle. Cut each circle in half and form a cone. Fill cone with potato-pea mixture and seal the edges. Deep fry samosas until golden brown. Serve hot with chutney.",
+        "rating": "4.3",
+        "foodImage": "https://www.recipetineats.com/wp-content/uploads/2021/02/Samosas-on-plate-SQ.jpg"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "chefName": "Atul Kochhar",
+    "chefPicture": "https://etimg.etb2bimg.com/photo/81296534.cms",
+    "shortBio": "Atul Kochhar is a Michelin-starred Indian-born chef who has worked in some of the world's best restaurants. He is known for his modern Indian cuisine.",
+    "likes": "4500",
+    "numRecipes": "200",
+    "yearsExperience": "25",
+    "recipes":[
+      {
+        "recipeName": "Pav Bhaji",
+        "ingredients": "4 potatoes, boiled and mashed, 1 cup mixed vegetables (peas, carrots, cauliflower), 2 onions, chopped, 2 tomatoes, chopped, 1 tbsp ginger-garlic paste, 2 tbsp pav bhaji masala",
+        "cookingMethod": "Heat oil in a pan and fry onions until browned. Add ginger-garlic paste and fry for 1 minute. Add tomatoes and cook until they turn soft. Add mixed vegetables and cook until they are tender. Add mashed potatoes and pav bhaji masala and mix well. Cook for 5 minutes, stirring constantly. Serve hot with buttered pav buns and chopped onions.",
+        "rating": "4.6",
+        "foodImage": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/11/pav-bhaji.jpg"
+      },
+      {
+        "recipeName": "Fish Curry",
+        "ingredients": "500 g fish fillets, 2 onions, chopped, 2 tomatoes, chopped, 1 tbsp ginger-garlic paste, 1 tsp cumin seeds, 1 tsp turmeric powder, 1 tsp red chili powder",
+        "cookingMethod": "Heat oil in a pan and fry cumin seeds until they start to splutter. Add onions and fry until browned. Add ginger-garlic paste and fry for 1 minute. Add tomatoes and cook until they turn soft. Add turmeric powder and red chili powder and mix well. Add fish fillets and cook for 10 minutes, until fully cooked. Serve hot with steamed rice.",
+        "rating": "4.3",
+        "foodImage": "https://vismaifood.com/storage/app/uploads/public/daa/96d/7bc/thumb__700_0_0_0_auto.jpg"
+      },
+      {
+        "recipeName": "Chana Masala",
+        "ingredients": ["2 cups chickpeas, boiled", "2 onions, chopped", "2 tomatoes, chopped", "1 tbsp ginger-garlic paste", "1 tsp cumin seeds", "1 tsp coriander powder"],
+        "cookingMethod": "Heat oil in a pan and fry cumin seeds until they start to splutter. Add onions and fry until browned. Add ginger-garlic paste and fry for 1 minute. Add tomatoes and cook until they turn soft. Add coriander powder and mix well. Add boiled chickpeas and cook for 5 minutes, stirring occasionally. Serve hot with bhatura or rice.",
+        "rating": "4.2",
+        "foodImage": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/08/chana-masala-recipe.jpg"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "chefName": "Ranveer Brar",
+    "chefPicture": "https://ngs-space1.sgp1.digitaloceanspaces.com/am/uploads/mediaGallery/image/1652597275542.jpg-org",
+    "shortBio": "Ranveer Brar is an Indian celebrity chef, restaurateur, and TV personality. He is known for his innovative approach to Indian cuisine.",
+    "likes": "6000",
+    "numRecipes": "300",
+    "yearsExperience": "15",
+    "recipes":[
+      {
+        "recipeName": "Masala Dosa",
+        "ingredients": "2 cups rice, 1 cup urad dal, 1 tbsp fenugreek seeds, 1 tsp salt, Oil",
+        "cookingMethod": "1. Soak rice, urad dal, and fenugreek seeds. 2. Grind the rice and fenugreek seeds to a fine batter, and then grind the urad dal to a smooth paste. 3. Mix the two batters together with salt and let it ferment overnight. 4. Heat a griddle or tawa on medium-high heat, spread the batter in a circular motion to make a thin crepe. 5. Drizzle oil around the edges and cook until crispy. 6. Add a spoonful of potato masala filling in the center and fold the crepe over. Serve hot with chutney and sambar.",
+        "rating": "4.4",
+        "foodImage": "https://www.cookwithmanali.com/wp-content/uploads/2020/05/Masala-Dosa-1014x1536.jpg"
+      },
+      {
+        "recipeName": "Chole Bhature",
+        "ingredients": "1 cup chickpeas, 2 onions (chopped), 2 tomatoes (chopped), 1 tbsp ginger-garlic paste, 1 tsp cumin powder, 1 tsp coriander powder, 1 tsp garam masala powder, 1 tsp red chili powder, 1 tsp turmeric powder, Salt, Oil, 2 cups all-purpose flour, 1/2 cup yogurt, 1 tsp sugar, 1/2 tsp baking powder, Water",
+        "cookingMethod": "1. Soak chickpeas overnight, then pressure cook with salt until tender. 2. Heat oil in a pan and fry chopped onions until golden brown. Add ginger-garlic paste and fry for a minute. 3. Add chopped tomatoes and cook until they turn soft. 4. Add all the dry spices and fry for a minute. 5. Add the cooked chickpeas and mix well. 6. For the bhature, mix all-purpose flour, yogurt, sugar, baking powder, and salt. Knead the dough with water and let it rest for 2 hours. 7. Roll the dough into small circles and deep fry in hot oil until they turn golden brown. Serve hot with chole.",
+        "rating": "4.6",
+        "foodImage": "https://en-media.thebetterindia.com/uploads/2022/08/294156779_1082267416022212_8006411537588067133_n-1_11zon-1660981126.jpg"
+      },
+      {
+        "recipeName": "Dal Makhni",
+        "ingredients": "1 cup black lentils, 1/4 cup kidney beans, 2 onions (chopped), 2 tomatoes (chopped), 1 tbsp ginger-garlic paste, 1 tsp cumin powder, 1 tsp coriander powder, 1 tsp garam masala powder, 1 tsp red chili powder, 1 tsp turmeric powder, Salt, Cream, Butter",
+        "cookingMethod": "1. Soak black lentils and kidney beans overnight, then pressure cook with salt until tender. 2. Heat butter in a pan and fry chopped onions until golden brown. Add ginger-garlic paste and fry for a minute. 3. Add chopped tomatoes and cook until they turn soft. 4. Add all the dry spices and fry for a minute. 5. Add the cooked lentils and mix well. 6. Cook on low heat for at least 30 minutes. 7. Add cream and mix well. Serve hot with rice or naan.",
+        "rating": "4.8",
+        "foodImage": "https://shwetainthekitchen.com/wp-content/uploads/2019/11/IMG_6917_1-scaled.jpg"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "chefName": "Madhur Jaffrey",
+    "chefPicture": "https://www.telegraph.co.uk/multimedia/archive/01372/pcurry1_1372531c.jpg?imwidth=960",
+    "shortBio": "Madhur Jaffrey is an Indian-born actress, food and travel writer, and television personality. She is an expert in Indian cuisine and has written many popular cookbooks.",
+    "likes": "4000",
+    "numRecipes": "150",
+    "yearsExperience": "40",
+    "recipes":[
+      {
+        "name": "Vada Pav",
+        "ingredients": "potatoes, garlic, ginger, mustard seeds, turmeric powder, gram flour, bread rolls",
+        "method": "Boil, mash and season potatoes. Prepare gram flour batter and make vada. Fry the vada and assemble in bread rolls.",
+        "rating": "4.5",
+        "foodImage": "https://www.cookwithmanali.com/wp-content/uploads/2018/04/Vada-Pav.jpg"
+      },
+      {
+        "name": "Aloo Paratha",
+        "ingredients": "wheat flour, potatoes, onion, green chili, ginger, coriander leaves",
+        "method": "Boil and mash potatoes, mix with spices and onion. Stuff the mixture in wheat dough balls and roll out parathas. Cook on tawa with oil or ghee.",
+        "rating": "4",
+        "foodImage": "https://www.vegrecipesofindia.com/wp-content/uploads/2009/08/aloo-paratha-recipe-4.jpg"
+      },
+      {
+        "name": "Barfi",
+        "ingredients": "milk powder, condensed milk, ghee, cardamom powder, pistachios, silver vark",
+        "method": "Mix milk powder, condensed milk, and ghee in a pan. Add cardamom powder and pistachios, cook until thick. Transfer to a greased tray and set. Cut into desired shape and garnish with silver vark.",
+        "rating": "4.7",
+        "foodImage": "https://static.toiimg.com/thumb/59369048.cms?imgsize=428009&width=800&height=800"
+      }
+    ]
+    
+  },
+  {
+    "id": "6",
+    "chefName": "Manish Mehrotra",
+    "chefPicture": "https://img.etimg.com/thumb/msid-47200745,width-650,height-488,imgsize-285848,,resizemode-75/.jpg",
+    "shortBio": "Manish Mehrotra is a renowned Indian chef who is known for his fusion cuisine. He is the executive chef of Indian Accent, a restaurant that has been consistently ranked among the best in Asia.",
+    "likes": "5500",
+    "numRecipes": "250",
+    "yearsExperience": "18",
+    "recipes": [
+      {
+        "name": "Biryani",
+        "ingredients": "basmati rice, chicken, onion, tomatoes, yogurt, ginger-garlic paste, spices",
+        "method": "Marinate chicken with yogurt and spices. Cook basmati rice and fry onion. Layer rice and chicken in a pot, top with fried onion, and cook until done.",
+        "rating": "4.8",
+        "foodImage": "https://images.food52.com/7f0yncraWeYUJG_lLbH2ie1xd6g=/2016x1344/d815e816-4664-472e-990b-d880be41499f--chicken-biryani-recipe.jpg"
+      },
+      {
+        "name": "Rogan Josh",
+        "ingredients": "lamb, onion, tomatoes, ginger, garlic, spices, yogurt",
+        "method": "Marinate lamb with yogurt and spices. Fry onion, ginger, and garlic. Add tomatoes and cook. Add lamb and cook until tender.",
+        "rating": "4.5",
+        "foodImage": "https://www.recipetineats.com/wp-content/uploads/2020/02/Rogan-Josh_5.jpg"
+      },
+      {
+        "name": "Malai Kofta",
+        "ingredients": "paneer, potatoes, cashews, raisins, cream, onion, tomatoes, spices",
+        "method": "Boil and mash potatoes, mix with grated paneer and spices. Stuff with cashews and raisins, and fry. Cook onion and tomato paste with spices and cream, add koftas, and cook until done.",
+        "rating": "4.7",
+        "foodImage": "https://www.carveyourcraving.com/wp-content/uploads/2021/09/Best-Malai-Kofta-recipe.jpg"
+      }
+    ]    
+  }
+]
