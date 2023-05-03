@@ -13,6 +13,12 @@ app.get('/chefsData',(req,res)=>{
     res.send(chefsData)
 })
 
+app.get('/chefsData/:id',(req,res)=>{
+    const id = req.params.id
+    const selectedChefsData = chefsData.find(c=>c.id === id)
+    res.send(selectedChefsData)
+})
+
 app.get('/',(req,res) => {
     res.send('Server is running')
 })
