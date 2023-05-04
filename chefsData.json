@@ -9,6 +9,7 @@
     "yearsExperience": "30",
     "recipes": [
       {
+        "id": "1",
         "recipeName": "Butter Chicken",
         "ingredients": "1 kg boneless chicken, cut into small pieces, 1 cup plain yogurt, 2 tbsp ginger-garlic paste, 1 tsp turmeric powder, 1 tsp garam masala",
         "cookingMethod": "Marinate chicken in yogurt, ginger-garlic paste, turmeric, and garam masala for at least an hour. Heat butter in a pan and cook the chicken until browned. Add tomato puree and cook for another 5-10 minutes. Stir in cream and serve hot.",
@@ -41,6 +42,7 @@
     "yearsExperience": "20",
     "recipes": [
       {
+        "id": "2",
         "recipeName": "Tandoori Chicken",
         "ingredients": "1 kg chicken legs, 2 tbsp tandoori masala, 1 tbsp ginger-garlic paste, 1/2 cup plain yogurt, 1 tbsp lemon juice",
         "cookingMethod": "Mix all ingredients together and marinate chicken for at least 2 hours. Preheat oven to 200°C and cook chicken for 25-30 minutes, until fully cooked. Serve hot.",
@@ -73,6 +75,7 @@
     "yearsExperience": "25",
     "recipes":[
       {
+        "id": "3",
         "recipeName": "Pav Bhaji",
         "ingredients": "4 potatoes, boiled and mashed, 1 cup mixed vegetables (peas, carrots, cauliflower), 2 onions, chopped, 2 tomatoes, chopped, 1 tbsp ginger-garlic paste, 2 tbsp pav bhaji masala",
         "cookingMethod": "Heat oil in a pan and fry onions until browned. Add ginger-garlic paste and fry for 1 minute. Add tomatoes and cook until they turn soft. Add mixed vegetables and cook until they are tender. Add mashed potatoes and pav bhaji masala and mix well. Cook for 5 minutes, stirring constantly. Serve hot with buttered pav buns and chopped onions.",
@@ -105,6 +108,7 @@
     "yearsExperience": "15",
     "recipes":[
       {
+        "id": "4",
         "recipeName": "Masala Dosa",
         "ingredients": "2 cups rice, 1 cup urad dal, 1 tbsp fenugreek seeds, 1 tsp salt, Oil",
         "cookingMethod": "1. Soak rice, urad dal, and fenugreek seeds. 2. Grind the rice and fenugreek seeds to a fine batter, and then grind the urad dal to a smooth paste. 3. Mix the two batters together with salt and let it ferment overnight. 4. Heat a griddle or tawa on medium-high heat, spread the batter in a circular motion to make a thin crepe. 5. Drizzle oil around the edges and cook until crispy. 6. Add a spoonful of potato masala filling in the center and fold the crepe over. Serve hot with chutney and sambar.",
@@ -137,6 +141,7 @@
     "yearsExperience": "40",
     "recipes":[
       {
+        "id": "5",
         "name": "Vada Pav",
         "ingredients": "potatoes, garlic, ginger, mustard seeds, turmeric powder, gram flour, bread rolls",
         "method": "Boil, mash and season potatoes. Prepare gram flour batter and make vada. Fry the vada and assemble in bread rolls.",
@@ -170,6 +175,7 @@
     "yearsExperience": "18",
     "recipes": [
       {
+        "id": "6",
         "name": "Biryani",
         "ingredients": "basmati rice, chicken, onion, tomatoes, yogurt, ginger-garlic paste, spices",
         "method": "Marinate chicken with yogurt and spices. Cook basmati rice and fry onion. Layer rice and chicken in a pot, top with fried onion, and cook until done.",
