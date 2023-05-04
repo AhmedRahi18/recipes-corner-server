@@ -106,7 +106,7 @@
     "recipes":[
       {
         "recipeName": "Masala Dosa",
-        "ingredients": "2 cups rice, 1 cup urad dal, 1 tbsp fenugreek seeds, 1 tsp salt, Oil",
+        "ingredients": "2 cups rice, 1 cup urad dal, 1 tbsp fenugreek seeds, 1 tsp salt, Oil,tomatoes, ginger, garlic, spices, yogur",
         "cookingMethod": "1. Soak rice, urad dal, and fenugreek seeds. 2. Grind the rice and fenugreek seeds to a fine batter, and then grind the urad dal to a smooth paste. 3. Mix the two batters together with salt and let it ferment overnight. 4. Heat a griddle or tawa on medium-high heat, spread the batter in a circular motion to make a thin crepe. 5. Drizzle oil around the edges and cook until crispy. 6. Add a spoonful of potato masala filling in the center and fold the crepe over. Serve hot with chutney and sambar.",
         "rating": "4.4",
         "foodImage": "https://www.cookwithmanali.com/wp-content/uploads/2020/05/Masala-Dosa-1014x1536.jpg"
@@ -137,23 +137,23 @@
     "yearsExperience": "40",
     "recipes":[
       {
-        "name": "Vada Pav",
+        "recipeName": "Vada Pav",
         "ingredients": "potatoes, garlic, ginger, mustard seeds, turmeric powder, gram flour, bread rolls",
-        "method": "Boil, mash and season potatoes. Prepare gram flour batter and make vada. Fry the vada and assemble in bread rolls.",
+        "cookingMethod": "Boil, mash and season potatoes. Prepare gram flour batter and make vada. Fry the vada and assemble in bread rolls.",
         "rating": "4.5",
         "foodImage": "https://www.cookwithmanali.com/wp-content/uploads/2018/04/Vada-Pav.jpg"
       },
       {
-        "name": "Aloo Paratha",
+        "recipeName": "Aloo Paratha",
         "ingredients": "wheat flour, potatoes, onion, green chili, ginger, coriander leaves",
-        "method": "Boil and mash potatoes, mix with spices and onion. Stuff the mixture in wheat dough balls and roll out parathas. Cook on tawa with oil or ghee.",
+        "cookingMethod": "Boil and mash potatoes, mix with spices and onion. Stuff the mixture in wheat dough balls and roll out parathas. Cook on tawa with oil or ghee.",
         "rating": "4",
         "foodImage": "https://www.vegrecipesofindia.com/wp-content/uploads/2009/08/aloo-paratha-recipe-4.jpg"
       },
       {
-        "name": "Barfi",
+        "recipeName": "Barfi",
         "ingredients": "milk powder, condensed milk, ghee, cardamom powder, pistachios, silver vark",
-        "method": "Mix milk powder, condensed milk, and ghee in a pan. Add cardamom powder and pistachios, cook until thick. Transfer to a greased tray and set. Cut into desired shape and garnish with silver vark.",
+        "cookingMethod": "Mix milk powder, condensed milk, and ghee in a pan. Add cardamom powder and pistachios, cook until thick. Transfer to a greased tray and set. Cut into desired shape and garnish with silver vark.",
         "rating": "4.7",
         "foodImage": "https://static.toiimg.com/thumb/59369048.cms?imgsize=428009&width=800&height=800"
       }
@@ -170,23 +170,23 @@
     "yearsExperience": "18",
     "recipes": [
       {
-        "name": "Biryani",
+        "recipeName": "Biryani",
         "ingredients": "basmati rice, chicken, onion, tomatoes, yogurt, ginger-garlic paste, spices",
-        "method": "Marinate chicken with yogurt and spices. Cook basmati rice and fry onion. Layer rice and chicken in a pot, top with fried onion, and cook until done.",
+        "cookingMethod": "Marinate chicken with yogurt and spices. Cook basmati rice and fry onion. Layer rice and chicken in a pot, top with fried onion, and cook until done.",
         "rating": "4.8",
         "foodImage": "https://images.food52.com/7f0yncraWeYUJG_lLbH2ie1xd6g=/2016x1344/d815e816-4664-472e-990b-d880be41499f--chicken-biryani-recipe.jpg"
       },
       {
-        "name": "Rogan Josh",
+        "recipeName": "Rogan Josh",
         "ingredients": "lamb, onion, tomatoes, ginger, garlic, spices, yogurt",
-        "method": "Marinate lamb with yogurt and spices. Fry onion, ginger, and garlic. Add tomatoes and cook. Add lamb and cook until tender.",
+        "cookingMethod": "Marinate lamb with yogurt and spices. Fry onion, ginger, and garlic. Add tomatoes and cook. Add lamb and cook until tender.",
         "rating": "4.5",
         "foodImage": "https://www.recipetineats.com/wp-content/uploads/2020/02/Rogan-Josh_5.jpg"
       },
       {
-        "name": "Malai Kofta",
+        "recipeName": "Malai Kofta",
         "ingredients": "paneer, potatoes, cashews, raisins, cream, onion, tomatoes, spices",
-        "method": "Boil and mash potatoes, mix with grated paneer and spices. Stuff with cashews and raisins, and fry. Cook onion and tomato paste with spices and cream, add koftas, and cook until done.",
+        "cookingMethod": "Boil and mash potatoes, mix with grated paneer and spices. Stuff with cashews and raisins, and fry. Cook onion and tomato paste with spices and cream, add koftas, and cook until done.",
         "rating": "4.7",
         "foodImage": "https://www.carveyourcraving.com/wp-content/uploads/2021/09/Best-Malai-Kofta-recipe.jpg"
       }
